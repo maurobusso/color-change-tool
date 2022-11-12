@@ -1,4 +1,3 @@
 # color-change-tool
 
-
-color-change-app.netlify.app
+<a>https://color-change-app.netlify.app/</a>
