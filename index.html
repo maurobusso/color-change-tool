@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono" rel="stylesheet">
+</head>
+
+    <body>
+        <div id="container" class="container">
+
+            <h1 id="title">Lighten/Darken Color</h1>
+                
+            <label for="hex">Color (Hex)</label>
+            <input type="text" name="hex" id="input-field" placeholder="#000000" value="#83bfe2">
+
+            <div id="toggle">
+                <p class="toggle-text" id="lighten-text">Lighten</p>
+                <div id="toggle-btn" class="toggle-btn">
+                    <div class="inner-circle"></div>
+                </div>
+                <p class="toggle-text" id="darken-text">Darken</p>
+            </div>
+            
+            <lable for="slider" id="slider-text">0%</lable>
+            <input type="range" min="0" max="100" value="0" class="slider" id="slider" name="slider"></input>
+            
+                    
+            <p>Input Color</p>
+            <div id="input-color" class="box"></div>
+
+            <p id="altered-color-text">Altered Color</p>
+            <div id="altered-color" class="box"></div>
+
+        </div>     
+                
+        <script src="app.js"></script>
+    </body>
+</html>
