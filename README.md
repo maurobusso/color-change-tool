@@ -1,4 +1,4 @@
-# colour-change-tool
+# Colour changer 
 
 This app allows you to pick a colour and then with the use of a button chose a darker or brighter shade displaying also the hexadecimal value.
 
