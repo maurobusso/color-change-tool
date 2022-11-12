@@ -4,7 +4,7 @@ This app allows you to pick a color and then with the use of a button chose a da
 
 <a href="https://color-change-app.netlify.app">Try it now</a>
 
-<img width="700px" heigth="900" src="https://github.com/maurobusso/color-change-tool/blob/main/color%20changer.jpg">
+<img width="500px" heigth="700" src="#">
 
 #
 
