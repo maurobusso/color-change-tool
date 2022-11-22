@@ -1,6 +1,6 @@
 # Colour changer 
 
-This app allows you to pick a colour and then with the use of a button chose a darker or brighter shade displaying also the hexadecimal value.
+This app allows you to pick a colour and then with the use of a button chose a darker or brighter shade displaying also the hexadecimal value. I have built this project as a part of the module about "Build a color tool in vanilla JavaScript" module from Scrimba.
 
 <a href="https://color-change-app.netlify.app">Try it now</a>
 
