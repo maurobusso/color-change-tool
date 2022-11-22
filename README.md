@@ -16,6 +16,8 @@ How It's Made:
 <br>
 <br>
 I started this project by building the HTML and CSS having a visual reference of how i wanted it to look like. Then the JavaScript was build starting with the function that checks if the input is a valid hexadecimal value. Then the conversion of this value in RGB value which allow me to increase it by a certain percentage and then again convert the value to hexadecimal and display the associated colour in the box below.
+</br>
+Test have been left throughout the code and commented out in case changes needs to be made in future.
 
 #
 
