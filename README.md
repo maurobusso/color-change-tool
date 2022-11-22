@@ -21,7 +21,7 @@ I started this project by building the HTML and CSS having a visual reference of
 
 Optimizations: 
 
-The UX interface could be improved with a smother design. another optimization that could be introduced is also the use of the actual name of the colour as input value rather than accepting only hexadecimal values.
+The UX interface could be improved with a smoother design. Another optimization that could be introduced is the use of the actual name of the colour as an input value rather than accepting only hexadecimal values.
 
 #
 
