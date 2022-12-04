@@ -88,6 +88,9 @@ input[type="text"] {
     opacity: 0.25;
 }
 
-/* @media  {
-    
-} */
+@media only screen and (max-width: 400px ) {
+    #container{
+        width: 90%;
+        height: 90%;
+    }
+}
